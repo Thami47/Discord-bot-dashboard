@@ -1,0 +1,7 @@
+app = "discord-bot-dashboard"
+
+[build]
+  image = "dockerfile"
+
+[env]
+  SECRET_KEY = "supersecret"
